@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
+<h1 align="center">Hi, I'm Piyush</h1>
 <h3 align="center">A hobbyist developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universe-echo&label=Profile%20views&color=0e75b6&style=flat" alt="universe-echo" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **echoahp@gmail.com**
 
-- ⚡ Fun fact **I think i am dead!**
+- ⚡ Fun fact **I love trees!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
