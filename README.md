@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/echo.piyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="echo.piyu" height="30" width="40" /></a>
 <a href="https://youtube.com/c/echojs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="EcHO" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EcHO" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
